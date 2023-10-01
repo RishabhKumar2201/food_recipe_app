@@ -112,7 +112,7 @@ class _SearchState extends State<Search> {
                               Icons.search,
                               color: Colors.blueAccent,
                             ),
-                            margin: EdgeInsets.fromLTRB(3, 0, 7, 0),
+                            margin: EdgeInsets.fromLTRB(3, 0, 7, 0) ,
                           ),
                         ),
                         Expanded(
